@@ -1,4 +1,4 @@
-# React Weather App - ReactJS Projects
+# ReactJS Weather Project - Cipher School
 
 ![](weather.gif)
 

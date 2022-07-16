@@ -1,7 +1,5 @@
 # ReactJS Weather Project - Cipher School
 
-![](weather.gif)
-
 ### APIs Used
 [Open Weather APIs](https://openweathermap.org/)
 
